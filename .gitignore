@@ -7,3 +7,4 @@ clover.xml
 infectionlog.json
 infectionlog.txt
 .phpunit.result.cache
+.idea
